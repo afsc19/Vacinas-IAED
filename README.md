@@ -29,3 +29,7 @@ gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
 # Testes 🧪
 Para correr os testes (fornecidos pelo professor), extraia a pasta zipada [public-tests.zip](https://github.com/afsc19/Vacinas-IAED/blob/main/public-tests.zip) e use o comando `make` na pasta `public-tests/`.
 O resultado dos testes deverá aparecer no fim do output.
+
+# Nota
+(Não tive 20 devido a um leak)
+ - 19.5
